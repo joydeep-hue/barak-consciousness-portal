@@ -1,0 +1,7 @@
+{
+  "name": "Barak River Consciousness API Portal",
+  "description": "A comprehensive monitoring system for the Barak River, integrating physical water quality data with community consciousness metrics using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
